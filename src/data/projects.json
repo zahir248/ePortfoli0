@@ -12,7 +12,7 @@
       "imageSrc": "projects/eportfolio.png",
       "description": "An online portfolio to display myself. The website showcases my personal information, skills, projects, work experience, and contact information.",
       "skills": ["React", "CSS", "Vite"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://zahir248.github.io/ePortfolio/",
+      "source": "https://github.com/zahir248/ePortfolio"
     }
   ]
