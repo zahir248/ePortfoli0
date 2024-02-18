@@ -1,0 +1,18 @@
+[
+    {
+      "title": "JomPick",
+      "imageSrc": "projects/jompick.png",
+      "description": "Designed and implemented an item collection management system that streamlined the tracking of customer items such as documents and parcels.",
+      "skills": ["Flutter", "PHP", "MySQL"],
+      "demo": "https://zahir248.github.io/JomPick_about/",
+      "source": "https://github.com/zahir248/jom_pick/tree/master"
+    },
+    {
+      "title": "ePortfolio",
+      "imageSrc": "projects/eportfolio.png",
+      "description": "An online portfolio to display myself. The website showcases my personal information, skills, projects, work experience, and contact information.",
+      "skills": ["React", "CSS", "Vite"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

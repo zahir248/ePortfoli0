@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Storekeeper",
+      "organisation": "99 Speedmart Sdn Bhd",
+      "startDate": "Jul, 2022",
+      "endDate": "Oct, 2022",
+      "experiences": ["Manage inventory, merchandising, and customer service of the store", "Prepare and maintain a variety of records related to the store activities, assist in keeping the assigned facility clean and orderly"],
+      "imageSrc": "history/speedmart.png"
+    },
+    {
+      "role": "Cashier",
+      "organisation": "Caltex Himpunan Jitu Sdn Bhd",
+      "startDate": "Apr, 2019",
+      "endDate": "May, 2019",
+      "experiences": ["Handle cash, credit, and debit card transactions for fuel, food, and other items sold at the station", "Keep the store clean and organized, stock shelves, and perform other duties as assigned"],
+      "imageSrc": "history/caltex.png"
+    }
+  ]
